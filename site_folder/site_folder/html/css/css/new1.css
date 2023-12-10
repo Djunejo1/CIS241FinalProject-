@@ -1,0 +1,36 @@
+body {
+    background-color: lightpink;
+    margin: 0;
+    font-family: sans-serif, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+	font-family: caveat;
+}
+
+header img {
+    width: 200px; /* adjust the size as needed */
+    height: auto;
+    border-radius: 50%; /* to make the image round */
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: "Caligrafy", sans-serif; /* Changing the font of h2 to Caligrafy */
+    /* Additional styling for h2 if needed */
+}
+
+p {
+    color: black;
+}
